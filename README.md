@@ -1,2 +1,2 @@
-# Site_HTML
+# HortiFruit-HTML
 Site criado para atividade passada na aula de 2CAW
